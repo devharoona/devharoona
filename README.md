@@ -1,5 +1,5 @@
-<div align="center">
-<img width="" height="475" alt="bannerofHR" src="https://github.com/devharoona/Dev-Haroon/blob/b34e3ad4f24451891194de71089a9929916426c9/Create_a_linkedin_202511242313%20kj.jpeg" />
+ <div align="center">
+<img width="" height="" alt="bannerofHR" src="https://github.com/devharoona/Dev-Haroon/blob/b34e3ad4f24451891194de71089a9929916426c9/Create_a_linkedin_202511242313%20kj.jpeg" />
 </div>
 
 <!--
